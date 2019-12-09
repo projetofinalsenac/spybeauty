@@ -60,7 +60,12 @@ nav {
     height: 50px;
     margin-left: 80px; 
 }
-
+.carousel-indicators li{
+	height:20px;
+    width:20px;
+    border-radius:50%;
+    
+  }
 .carousel img{
     width: 300px;
     height: 350px;
@@ -81,6 +86,7 @@ nav {
     margin: 162px;
     margin-right: 40px; 
 }
+
 
 .roda{
   margin-top: 50px;  

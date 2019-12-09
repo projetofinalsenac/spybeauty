@@ -1,13 +1,9 @@
-<?php
-include('_header.php');
-?>
-
 <style>
 .hidden { display:none; }
 .data { padding-left: 1rem; }
 .noticia { margin: 1rem 0; padding: .5rem; }
-.noticia:nth-child(even) { background: #FF69B4; }
-.noticia:nth-child(odd) { background: #DB7093; }
+.noticia:nth-child(even) { background: #ffc; }
+.noticia:nth-child(odd) { background: #cfc; }
 </style>
 
 
@@ -42,9 +38,4 @@ foreach($noticias as $noticia){
 
 
 
-?>
-
-
-<?php 
-include('_footer.php')
 ?>
