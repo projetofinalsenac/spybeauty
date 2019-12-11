@@ -43,18 +43,18 @@ include('_header.php');
       </a>
       
     </div>
-
+<div class="p-3">
     <h2 class="mt-3">Conheça as principais funcionalidades do App:</h2>
     
     <p>A novidade no nosso aplicativo é a nova opção desmarcar consultas. Se você não puder comparecer a uma consulta médica marcada, você pode cancelar sua consulta de maneira simples e rápida no nosso aplicativo. Assim, você ajuda o médico a reorganizar a agenda e possibilita que outras pessoas consultem o profissional.</p>   
     <h5>Conheça tudo que nosso aplicativo pode fazer por você.</h5>
-    <p>• &nbsp; E muito mais.</p>
-    <p>• &nbsp;  E muito mais.</p>
-    <p>• &nbsp;  E muito mais.</p>
-    <p>• &nbsp;  E muito mais.</p>
+    <ul><li> E muito mais.</li>
+    <li> E muito mais.</li>
+    <li> E muito mais.</li>
+    <li> E muito mais.</li></ul>
 
     <p>Baixe agora e tenha o Hapvida ao alcance do seu celular.</p>
-    
+    </div>
 <?php 
 include('_footer.php')
 ?>
